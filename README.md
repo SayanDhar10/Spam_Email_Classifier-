@@ -26,10 +26,6 @@ This project aims to build a Spam Email Classifier using a Logistic Regression m
 5. Evaluation:
    - Computes prediction accuracy
    - Plots a confusion matrix
-# Installation & Usage
-Clone the Repository
-git clone https://github.com/yourusername/spam-email-classifier-pytorch.git
-cd spam-email-classifier-pytorch
 # Install Dependencies
 pip install torch pandas scikit-learn matplotlib
 # Run the Script
